@@ -1,15 +1,18 @@
 <idea-plugin>
-    <id>org.jetbrains.plugins.template</id>
-    <name>Template</name>
-    <vendor>JetBrains</vendor>
+    <id>com.joshdavies.fptheme</id>
+    <name>Functional Programming</name>
+    <vendor>Josh Davies</vendor>
+
+    <description><![CDATA[
+      Theme for IntelliJ based off the colour scheme from the CS141 Functional Programming module.
+    ]]></description>
 
     <!-- Product and plugin compatibility requirements -->
     <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="org.jetbrains.plugins.template.services.MyApplicationService"/>
-        <projectService serviceImplementation="org.jetbrains.plugins.template.services.MyProjectService"/>
+        <themeProvider id="9c5ba66d-2066-4471-a1f6-c8907d92814a" path="/fp_theme.theme.json"/>
     </extensions>
 
     <applicationListeners>
