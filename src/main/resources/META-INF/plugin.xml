@@ -14,5 +14,4 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="9c5ba66d-2066-4471-a1f6-c8907d92814a" path="/fp_theme.theme.json"/>
     </extensions>
-
 </idea-plugin>
