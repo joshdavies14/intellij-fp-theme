@@ -15,8 +15,4 @@
         <themeProvider id="9c5ba66d-2066-4471-a1f6-c8907d92814a" path="/fp_theme.theme.json"/>
     </extensions>
 
-    <applicationListeners>
-        <listener class="org.jetbrains.plugins.template.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>
