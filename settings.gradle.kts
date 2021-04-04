@@ -1,1 +1,1 @@
-rootProject.name = "intellij-fp-theme"
+rootProject.name = "Functional Programming"
