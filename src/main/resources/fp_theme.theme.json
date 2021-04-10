@@ -87,8 +87,7 @@
     "ComboPopup.border": "1,1,1,1,darkBackground",
 
     "CompletionPopup":  {
-      "matchForeground": "#ED94FF",
-      "matchSelectionForeground": "#ED94FF"
+      "matchForeground": "#ED94FF"
     },
 
     "Component": {
@@ -129,10 +128,6 @@
     "EditorPane.inactiveBackground": "#5d4966",
 
     "EditorTabs": {
-      "selectedForeground": "offWhite",
-      "selectedBackground": "defBackground",
-      "inactiveMaskColor": "#34244aff",
-
       "underlineColor": "lightBackground",
       "underlineHeight": 3,
 
@@ -141,7 +136,6 @@
     },
 
     "InplaceRefactoringPopup": {
-      "background": "#450073",
       "borderColor": "darkGrey"
     },
 
@@ -341,7 +335,6 @@
       },
 
       "HeaderTab": {
-        "selectedBackground": "#4e3a57",
         "selectedInactiveBackground": "defBackground",
         "hoverBackground": "#4e3a57",
         "hoverInactiveBackground": "#4e3a57",
