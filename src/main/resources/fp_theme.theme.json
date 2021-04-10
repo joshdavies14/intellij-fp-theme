@@ -2,7 +2,7 @@
   "name": "fp-theme",
   "dark": true,
   "author": "Josh Davies",
-  "editorScheme": "./fp_theme.xml",
+  "editorScheme": "/fp_theme.xml",
   "colors": {
     "defBackground": "#3D3051",
     "midBackground": "#261F34",
@@ -137,7 +137,7 @@
       "underlineHeight": 3,
 
       "underlinedTabBackground": "defBackground",
-      "inactiveColoredFileBackground": "#00000000"
+      "inactiveColoredFileBackground": "darkBackground"
     },
 
     "InplaceRefactoringPopup": {
@@ -147,10 +147,10 @@
 
     "Link": {
       "activeForeground": "offWhite",
-      "hoverForeground": "#483f58",
-      "pressedForeground": "#483f58",
+      "hoverForeground": "lightBackground",
+      "pressedForeground": "lightBackground",
       "visitedForeground": "offWhite",
-      "secondaryForeground": "#483f58"
+      "secondaryForeground": "lightBackground"
     },
 
     "MemoryIndicator": {
@@ -167,7 +167,7 @@
       "errorBackground": "#E6194B",
       "errorBorderColor": "#EB4C5D",
 
-      "MoreButton.innerBorderColor": "#000000",
+      "MoreButton.innerBorderColor": "darkBackground",
 
       "ToolWindow": {
         "informativeForeground": "#B3B3B3",
@@ -206,9 +206,9 @@
       "Button": {
         "installForeground": "lightBackground",
         "installBorderColor":"lightBackground",
-        "installFillForeground": "#000000",
+        "installFillForeground": "darkBackground",
         "installFillBackground": "lightBackground",
-        "updateForeground":"#000000",
+        "updateForeground":"darkBackground",
         "updateBackground": "lightBackground"
       },
 
