@@ -3,6 +3,7 @@
 # Functional Programming Theme Changelog
 
 ## [Unreleased]
+## [1.0.3]
 ### Changed
 - Updated plugin description to add credit to Michael for the theme logo
 ## [1.0.2]
