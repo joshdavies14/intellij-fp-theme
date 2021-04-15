@@ -1,4 +1,4 @@
-# intellij-fp-theme
+# Functional Programming theme for IntelliJ
 
 ![Build](https://github.com/joshdavies14/intellij-fp-theme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/16508)
