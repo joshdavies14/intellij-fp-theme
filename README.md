@@ -6,6 +6,8 @@
 
 <!-- Plugin description -->
 This is a theme for IntelliJ based off the colour scheme from the CS141 Functional Programming module.
+
+Logo taken from screenshot of CS141 Functional Programming material, credit to [Michael Gale](https://github.com/mbg)
 <!-- Plugin description end -->
 
 ## Installation
