@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# intellij-fp-theme Changelog
+# Functional Programming Theme Changelog
 
 ## [Unreleased]
 ## [1.0.2]
