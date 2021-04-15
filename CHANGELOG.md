@@ -3,6 +3,8 @@
 # Functional Programming Theme Changelog
 
 ## [Unreleased]
+### Changed
+- Updated plugin description to add credit to Michael for the theme logo
 ## [1.0.2]
 ### Changed
 - Updated compatibility for IntelliJ 2021.1
