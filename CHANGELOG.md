@@ -3,6 +3,7 @@
 # intellij-fp-theme Changelog
 
 ## [Unreleased]
+## [1.0.2]
 ### Changed
 - Updated compatibility for IntelliJ 2021.1
 
