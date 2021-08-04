@@ -4,16 +4,16 @@
         <option name="CONSOLE_BACKGROUND_KEY" value="1f1624" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="112116" />
         <option name="DOCUMENTATION_COLOR" value="4d2046" />
-        <option name="DOC_COMMENT_LINK" value="78BD65" />
+        <option name="DOC_COMMENT_LINK" value="575D61" />
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="EF7C2A" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="4a452a" />
         <option name="GUTTER_BACKGROUND" value="261f34" />
         <option name="INDENT_GUIDE" value="2d2034" />
-        <option name="INFORMATION_HINT" value="78BD65" />
+        <option name="INFORMATION_HINT" value="575D61" />
         <option name="LINE_NUMBERS_COLOR" value="8d9296" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="bebdbd" />
         <option name="NOTIFICATION_BACKGROUND" value="491770" />
-        <option name="RECENT_LOCATIONS_SELECTION" value="78BD65" />
+        <option name="RECENT_LOCATIONS_SELECTION" value="575D61" />
         <option name="RIGHT_MARGIN_COLOR" value="56336e" />
         <option name="SELECTED_INDENT_GUIDE" value="5b3c68" />
         <option name="SELECTED_TEARLINE_COLOR" value="9168a8" />
@@ -79,7 +79,7 @@
         </option>
         <option name="CONSOLE_USER_INPUT">
             <value>
-                <option name="FOREGROUND" value="78BD65" />
+                <option name="FOREGROUND" value="575D61" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -257,13 +257,13 @@
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="78BD65" />
-                <option name="ERROR_STRIPE_COLOR" value="78BD65" />
+                <option name="BACKGROUND" value="575D61" />
+                <option name="ERROR_STRIPE_COLOR" value="575D61" />
             </value>
         </option>
         <option name="DUPLICATE_FROM_SERVER">
             <value>
-                <option name="BACKGROUND" value="78BD65" />
+                <option name="BACKGROUND" value="575D61" />
             </value>
         </option>
         <option name="ERRORS_ATTRIBUTES">
@@ -302,7 +302,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="78BD65" />
+                <option name="BACKGROUND" value="575D61" />
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT">
