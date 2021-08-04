@@ -3,6 +3,7 @@
 # Functional Programming UI Theme Changelog
 
 ## [Unreleased]
+## [1.1.0]
 ### Changed
 - Updated compatibility for IntelliJ 2021.2
 - Updated Gradle version to 7.1.1
