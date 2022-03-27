@@ -1,10 +1,10 @@
 <idea-plugin>
     <id>com.joshdavies.fptheme</id>
-    <name>Functional Programming UI Theme</name>
+    <name>Functional Purple UI Theme</name>
     <vendor>Josh Davies</vendor>
 
     <description><![CDATA[
-      Theme for IntelliJ based off the colour scheme from the CS141 Functional Programming module.
+      Theme for IntelliJ based off the colour scheme from the 2020/21 CS141 Functional Programming module.
     ]]></description>
 
     <!-- Product and plugin compatibility requirements -->

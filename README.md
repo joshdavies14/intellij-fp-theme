@@ -1,13 +1,13 @@
-# Functional Programming theme for IntelliJ
+# Functional Purple theme for IntelliJ
 
 ![Build](https://github.com/joshdavies14/intellij-fp-theme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/16508)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/16508)
 
 <!-- Plugin description -->
-This is a theme for IntelliJ based off the colour scheme from the CS141 Functional Programming module.
+This is a theme for IntelliJ based off the colour scheme from the 2020/21 CS141 Functional Programming module.
 
-Logo taken from screenshot of CS141 Functional Programming material, credit to [Michael Gale](https://github.com/mbg)
+Logo taken from screenshot of 2020/21 CS141 Functional Programming material, credit to [Michael Gale](https://github.com/mbg)
 <!-- Plugin description end -->
 
 ## Installation

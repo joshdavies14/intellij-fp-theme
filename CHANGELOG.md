@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# Functional Programming UI Theme Changelog
+# Functional Purple UI Theme Changelog
 
 ## [Unreleased]
 ### Changed
