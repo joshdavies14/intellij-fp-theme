@@ -6,6 +6,8 @@
 
 ## [1.1.1]
 ### Changed
+- Updated compatibility for IntelliJ 2021.3
+- Updated Gradle version 7.3
 
 ## [1.1.0]
 ### Changed
