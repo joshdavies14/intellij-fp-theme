@@ -1,1 +1,1 @@
-rootProject.name = "Functional Programming"
+rootProject.name = "Functional Purple"
