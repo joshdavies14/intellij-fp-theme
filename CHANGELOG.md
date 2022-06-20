@@ -3,6 +3,11 @@
 # Functional Purple UI Theme Changelog
 
 ## [Unreleased]
+### Changed
+- Updated compatibility for IntelliJ 2022.2
+- Updated Gradle version to 7.4.2
+- Renamed Gradle project name to match new plugin name
+- Updated GitHub Actions and dependencies
 
 ## [1.2.0]
 ### Changed
