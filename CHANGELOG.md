@@ -3,6 +3,8 @@
 # Functional Purple UI Theme Changelog
 
 ## [Unreleased]
+
+## [1.2.2]
 ### Changed
 - Updated compatibility for IntelliJ 2022.3
 
