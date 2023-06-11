@@ -57,7 +57,7 @@ qodana {
 }
 
 // Configure Gradle Kover Plugin - read more: https://github.com/Kotlin/kotlinx-kover#configuration
-kover.xmlReport {
+koverReport {
     defaults {
         xml {
             onCheck = true
