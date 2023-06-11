@@ -4,6 +4,9 @@
 
 ## [Unreleased]
 
+### Changed
+- Updated compatibility for IntelliJ 2023.2
+
 ## [1.2.3] - 2023-04-05
 
 ### Changed
