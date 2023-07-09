@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [1.2.4] - 2023-07-09
+
 ### Changed
 - Updated compatibility for IntelliJ 2023.2
 
@@ -70,7 +72,8 @@
 ### Added
 - Initial theme creation and upload
 
-[Unreleased]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.3...HEAD
+[Unreleased]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.4...HEAD
+[1.2.4]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.3...v1.2.4
 [1.2.3]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.2...v1.2.3
 [1.2.2]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.1...v1.2.2
 [1.2.1]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.0...v1.2.1
