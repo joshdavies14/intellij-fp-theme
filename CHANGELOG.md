@@ -3,6 +3,9 @@
 # Functional Purple UI Theme Changelog
 
 ## [Unreleased]
+- Updated compatibility for IntelliJ 2024.1
+- Updated Gradle version to 8.6
+- Updated GitHub Actions and dependencies
 
 ## [1.2.4] - 2023-07-09
 
