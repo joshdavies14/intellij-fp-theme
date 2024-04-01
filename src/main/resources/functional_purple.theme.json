@@ -2,7 +2,7 @@
   "name": "fp-theme",
   "dark": true,
   "author": "Josh Davies",
-  "editorScheme": "/fp_theme.xml",
+  "editorScheme": "/functional_purple_editor.xml",
   "colors": {
     "defBackground": "#3D3051",
     "midBackground": "#261F34",

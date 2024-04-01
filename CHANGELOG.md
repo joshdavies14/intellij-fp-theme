@@ -4,6 +4,9 @@
 
 ## [Unreleased]
 
+### Fixed
+- Fixed an incorrect reference to a theme file that resulted in the editor scheme failing to load
+
 ## [1.2.5] - 2024-03-28
 
 ### Changed
