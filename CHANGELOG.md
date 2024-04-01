@@ -4,7 +4,10 @@
 
 ## [Unreleased]
 
+## [1.2.6] - 2024-04-01
+
 ### Fixed
+
 - Fixed an incorrect reference to a theme file that resulted in the editor scheme failing to load
 
 ## [1.2.5] - 2024-03-28
@@ -94,7 +97,8 @@
 
 - Initial theme creation and upload
 
-[Unreleased]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.5...HEAD
+[Unreleased]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.6...HEAD
+[1.2.6]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.5...v1.2.6
 [1.2.5]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.4...v1.2.5
 [1.2.4]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.3...v1.2.4
 [1.2.3]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.2...v1.2.3
