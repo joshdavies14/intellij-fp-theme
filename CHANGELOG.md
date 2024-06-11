@@ -4,6 +4,12 @@
 
 ## [Unreleased]
 
+### Changed
+
+- Updated compatibility for IntelliJ 2024.2
+- Updated Gradle version to 8.7
+- Updated GitHub Actions and dependencies
+
 ## [1.2.6] - 2024-04-01
 
 ### Fixed
