@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### Changes
+
+- Updated compatibility for IntelliJ 2024.3
+
 ## [1.2.7] - 2024-06-11
 
 ### Changed
