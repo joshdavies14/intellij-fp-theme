@@ -4,9 +4,15 @@
 
 ## [Unreleased]
 
+### Changed
+
+- Removed untilBuild limitation for compatibility with future versions of IntelliJ
+- Updated Gradle version to 8.11.1
+- Updated dependencies and GitHub Actions
+
 ## [1.2.8] - 2024-09-21
 
-### Changes
+### Changed
 
 - Updated compatibility for IntelliJ 2024.3
 
