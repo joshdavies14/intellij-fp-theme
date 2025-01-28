@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [1.2.9] - 2025-01-26
+
 ### Changed
 
 - Removed untilBuild limitation for compatibility with future versions of IntelliJ
@@ -117,7 +119,8 @@
 
 - Initial theme creation and upload
 
-[Unreleased]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.8...HEAD
+[Unreleased]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.9...HEAD
+[1.2.9]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.8...v1.2.9
 [1.2.8]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.7...v1.2.8
 [1.2.7]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.6...v1.2.7
 [1.2.6]: https://github.com/joshdavies14/intellij-fp-theme/compare/v1.2.5...v1.2.6
